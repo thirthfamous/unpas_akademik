@@ -9,8 +9,9 @@ package test;
  *
  * @author Teguh
  */
-public class tes {
+public class TEST_GIT {
     public static void main(String[] args) {
         System.out.println("TES TUBES PSI WKOWKWOKWOK");
+        System.out.println("TES GIT WOKOWKWOWKOWK");
     }
 }
