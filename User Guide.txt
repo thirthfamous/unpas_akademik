@@ -1,0 +1,13 @@
+//Get latest data update
+git add .
+
+git commit -m "message"
+
+git pull origin master
+
+//Upload yours data
+git add .
+
+git commit -m "message"
+
+git push origin master
